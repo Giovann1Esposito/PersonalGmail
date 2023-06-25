@@ -1,0 +1,64 @@
+body {
+  background-image: url(https://static.vecteezy.com/ti/vettori-gratis/p3/2458523-sfondo-rosso-sfumato-gratuito-vettoriale.jpg);
+}
+
+.Immagine{
+  width: 150px;
+  margin-left: 350px;
+}
+
+header{
+  font-size: 25px;
+  color: white;
+}
+
+hr{
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+nav{
+  margin-left: 350px;
+  margin-right: 350px;
+  color: white;
+}
+
+h2{
+  font-weight: normal;
+}
+
+#unreadcount{
+  background-color: red;
+  border-radius: 60%;
+  padding: 2px;
+}
+
+.row-left{
+  display: inline-block;
+  width: 30%
+}
+
+.row-right{
+  display: inline-block;
+  width: 68%
+}
+
+.row{
+  margin-left: 350px;
+  margin-right: 350px;
+  background-color: lightgrey;
+}
+
+footer{
+  text-align: center;
+}
+
+#Fine1{
+  font-size: 25px;
+  color: white;
+  font-style: oblique;
+}
+
+#Fine2{
+  color: red;
+}
